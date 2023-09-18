@@ -36,14 +36,14 @@
 </svelte:head>
 
 <section>
-	<div class="post">
-		<h1>Posts</h1>
-		{#each Object.values(blogPosts) as { title, slug }}
-				<h2>
-					<a href={`/posts/${slug}`}>{title}</a>
-				</h2>
-		{/each}
-	</div>
+<!--	<div class="post">-->
+<!--		<h1>Posts</h1>-->
+<!--		{#each Object.values(blogPosts) as { title, slug }}-->
+<!--				<h2>-->
+<!--					<a href={`/posts/${slug}`}>{title}</a>-->
+<!--				</h2>-->
+<!--		{/each}-->
+<!--	</div>-->
 
 	<div class="Writings">
 		<h1>My Writing</h1>
