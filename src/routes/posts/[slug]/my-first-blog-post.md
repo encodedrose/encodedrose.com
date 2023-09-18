@@ -1,0 +1,3 @@
+
+## H1
+In this post, I will share my journey of becoming a programmer. Starting from scratch, I had to overcome many obstacles to reach where I am today. It all started when...

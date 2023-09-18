@@ -1,0 +1,11 @@
+/*@import '@fontsource/fira-mono';*/
+
+:root {
+	background-color: #f5f6f1;
+}
+
+body {
+	/*min-height: 100vh;*/
+	margin: 0;
+}
+
