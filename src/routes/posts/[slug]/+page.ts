@@ -1,6 +1,6 @@
 import { blogPosts } from "$lib/data/posts";
 
-export const prerender = true;
+export const prerender = false;
 
 // @ts-ignore
 export async function load({ params }) {
