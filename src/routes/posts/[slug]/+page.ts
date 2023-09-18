@@ -18,7 +18,7 @@ export async function load({ params }) {
     throw new Error(`No blog post found for slug ${slug}`);
   }
 
-  const mdPost = await import(`./${slug}.md`);
+  const mdPost = await import(`../${slug}.md`);
   const Content = mdPost.default;
 
   if (!mdPost) {
