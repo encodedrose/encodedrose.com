@@ -26,7 +26,6 @@
 			url: 'https://newsletter.glenrosegroup.com/p/highlights-state-kubernetes-cost-optimization-report-part-2',
 			text: 'Highlights of State of Kubernetes Cost Optimization Report - Part 2'
 		}
-		// Add more links here
 	];
 </script>
 
@@ -36,16 +35,12 @@
 </svelte:head>
 
 <section>
-<!--	<div class="post">-->
-<!--		<h1>Posts</h1>-->
-<!--		{#each Object.values(blogPosts) as { title, slug }}-->
-<!--				<h2>-->
-<!--					<a href={`/posts/${slug}`}>{title}</a>-->
-<!--				</h2>-->
-<!--		{/each}-->
-<!--	</div>-->
-
 	<div class="Writings">
+		<h1>Logs</h1>
+		<h2>
+
+		</h2>
+
 		<h1>My Writing</h1>
 		<h2>
 			<ul>

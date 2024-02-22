@@ -11,13 +11,13 @@
 	</div>
 	<div class="divider"></div>
 	<h2>About me</h2>
-	<p class="center">👋 I'm Elizabeth Flowers</p>
-	<p><strong>Currently:</strong> Founder & Chief Cloud Scientist at the <a href="https://www.glenrosegroup.com/">Glenrose Group</a> where we help you run more software for less.</p>
+	<p class="center">👋 I'm Elizabeth</p>
+	<p>Founder & Chief Cloud Scientist at the <a href="https://www.glenrosegroup.com/">Glenrose Group</a> where we help you run more software for less. I'm also Building celestial.cloud</p>
 	<p><strong>Prior:</strong> <span class="underline">Head of Innovation & Technology</span> at New Relic with over a decade of software experience.</p>
 	<h2>In Progress</h2>
 	<p class="indent">When I'm not running the Glenrose Group, I'm working on a BSBA in Marketing and writing my first technical book.</p>
-	<h2>Belief</h2>
-	<p class="indent">Across the market, up the stack, and within a business success means solving hard problems, building magical experience, and cultivating diverse spaces that bring out the creativity in people.</p>
+	<h2>Raison d'être</h2>
+	<p class="indent">poke computers.</p>
 	<h2>Connect</h2>
 	<div class="social-icons">
 		<a href="https://github.com/encodedrose">
@@ -81,5 +81,9 @@
 
 	.indent {
 		text-indent: 2em;
+	}
+
+	.text-xs {
+		font-size: 0.612em;
 	}
 </style>

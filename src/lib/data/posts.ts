@@ -8,12 +8,12 @@ interface BlogPost {
 }
 
 export const blogPosts: {[key: string]: BlogPost} = {
-    "my-first-blog-post": {
-        title: "My First Blog Post",
-        slug: "my-first-blog-post",
-        metaDescription: "This is my personal journey on how I started programming. In it, I share the challenges I faced and how I overcame them.",
-        tags: ["Journey", "Programming", "Motivational"],
-        createdOn: new Date('2023-09-18'),
-        author: "John Doe",
+    "on-building-celestial": {
+        title: "Building Celestial",
+        slug: "on-building-celestial",
+        metaDescription: "A joy of building high-sizzle and juicy software.",
+        tags: ["celestial"],
+        createdOn: new Date('2023-12-23'),
+        author: "Elizabeth Flowers",
     },
 };

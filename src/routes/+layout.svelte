@@ -21,5 +21,6 @@
 		overflow: auto;
 		padding: 1em;
 		font-family: 'Comfortaa', serif;
+		position: relative;
 	}
 </style>
